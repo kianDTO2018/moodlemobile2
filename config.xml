@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.baharonline.baharonlinemobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>baharonline Mobile</name>
+    <name>بهارآنلاین</name>
     <description>baharonline Mobile official app</description>
     <author email="mobile@baharonline.ir" href="http://baharonline.ir">baharonline Mobile team</author>
     <content src="index.html" />
